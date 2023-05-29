@@ -1,0 +1,21 @@
+id,location,1,2,3,4,5,6,7
+1,old dhaka,available,busy,available,busy,available,busy,available
+2,mirpur,busy,available,busy,available,busy,available,busy
+3,old dhaka,available,available,available,available,available,available,available
+4,mirpur,busy,busy,available,available,available,available,busy
+5,mohammadpur,available,available,available,available,available,available,available
+6,mirpur,busy,busy,available,available,available,busy,busy
+7,old dhaka,available,busy,available,busy,available,busy,available
+8,dhanmondi,busy,available,busy,available,busy,available,busy
+9,mohammadpur,available,available,available,available,available,available,available
+10,mirpur,busy,busy,available,available,available,available,busy
+11,dhanmondi,available,available,available,available,available,available,available
+12,mohammadpur,busy,busy,busy,busy,busy,busy,busy
+13,old dhaka,available,busy,available,busy,available,busy,available
+14,mohammadpur,busy,available,busy,available,busy,available,busy
+15,dhanmondi,available,available,available,available,available,available,available
+16,mohammadpur,busy,busy,busy,busy,busy,busy,busy
+17,dhanmondi,available,available,available,available,available,available,available
+18,old dhaka,busy,busy,available,available,available,available,busy
+19,dhanmondi,available,busy,available,busy,available,busy,available
+20,old dhaka,available,busy,available,busy,available,busy,available
